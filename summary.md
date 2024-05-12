@@ -17,7 +17,7 @@ According to the authors, while subjects and objects are typically realized by n
 * VP as Object: He hated [going to his linguistics classes].
 * PP as Object: She gave the book [to the librarian].
 
-![Mapping table](https://imgur.com/a/HYrcMsb)
+![Mapping table](https://i.imgur.com/tnQPDH9.png)
 
 The passage presents a mapping table that illustrates the complex relationship between the form and function of constituents in English sentences. It demonstrates that a given form can realize different functions, and a given function can be realized by a variety of forms.
 ## 4.5. Conclusion
