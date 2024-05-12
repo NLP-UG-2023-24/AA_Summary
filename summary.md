@@ -22,3 +22,22 @@ According to the authors, while subjects and objects are typically realized by n
 The passage presents a mapping table that illustrates the complex relationship between the form and function of constituents in English sentences. It demonstrates that a given form can realize different functions, and a given function can be realized by a variety of forms.
 ## 4.5. Conclusion
 In Chapter 4.5, the authors summarize the key points discussed regarding the investigation of sentence structure. The chapter explores various methods for investigating the structure of sentences. Syntactic constituency can be examined through systematic observations of structural and morphological patterns within word strings. By analyzing evidence obtained through pronominalization, coordination, gapping, movement, passivization, omission, and morphological operations, grammatical categories such as word classes and phrases can be established. These categories help in understanding the arrangement of words in English sentences. The chapter delves into the functions of subjects, objects, and adverbials. Detailed discussions are provided on how these functions are mapped onto the formal categories established earlier in the chapter. Various criteria are outlined for distinguishing between sentence functions and describing their behaviors. These criteria include structural, morphological, and syntactic features that help differentiate subjects, objects, and adverbials. It is emphasized that each sentential function can be realized by multiple formal categories. Similarly, a single formal category may serve different functions within a sentence.
+
+# Chapter 7: Extensions and applications: historical linguistics, sociolinguistics, and psycholinguistics 
+This chapter delves into the extensions and applications of linguistics, focusing on historical linguistics, sociolinguistics, and psycholinguistics. It aims to answer questions regarding language change and interrelations among languages, sociological influences on language, and the ability of humans to store and process language in relation to our cognitive capacities.
+## Historical linguistics
+At the end of the 18th century, **William Jones** made a groundbreaking discovery during his study of Sanskrit – an ancient Indian language. Jones proposed that since Sanskrit, Greek, and Latin, together with Celtic and Old Persian, share common features, it seems that they also share ancestry. His discovery led to an advancement in the field of historical linguistics.
+To understand the concept of shared linguistic features across languages, one could examine English and German ¬– languages exhibiting many systematic correspondences that cannot be accidental. Not only much of their vocabulary is similar in meaning, but also phonological correspondences can be observed. While some sounds, such as /b/, /f/, and /n/ remain the same, others have undergone systematic changes. For instance, English /p/, /t/, /k/ systematically developed into German /pf/ or /f/, /t/ or /ts/, and /x/, respectively. It is highly unlikely that these correspondences are due to chance. There are two possibilities to explain such systematic correspondences – linguistic borrowing or shared ancestral language. 
+In this case, however, it seems that English and German stem from the common ancestor. Moreover, languages such as Dutch and Frisian appear also related since, like English, they exhibit the voiceless plosive /p/, while German shows affricates /pf/ or fricatives /f/. Thus, they seem to develop from the same ancestral language, but either German or the three languages must have undergone a sound change at some point in their history. It appears to be German since it is more likely that only one language was subject to this change, and the shift from plosives to fricatives or affricates is very common across languages and motivated by articulatory reasons.
+**Comparative reconstruction**, a methodological approach which entails the systematic comparison of related languages, is applied to establish genetic relations between languages. In this case, it was established that the sound /p/ was a part of the phonetic inventory of the ancestor of English, Frisian, Dutch, German (and many more) – **Proto-Germanic**. In turn, Proto-Germanic belongs to the family of **Indo-European languages**, which consists of the following main branches: 
+* Tocharian 
+* Anatolian
+* Hellenic
+* Italic
+* Balto-Slavic
+* Albanian
+* Indo-Iranian
+* Armenian 
+* Germanic
+* Celtic
+
