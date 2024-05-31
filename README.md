@@ -6,10 +6,6 @@ Sentences are formed using syntax rules and specific word orders. Syntax defines
 
 Sentences are broken into constituents and analyzed using tree diagrams. Ambiguities in structure can lead to multiple interpretations.
 
-## Psycholinguistics: Language Processing
-
-Psycholinguistics examines how the brain processes language, stores words, and recognizes frequently used words faster due to "resting activation."
-
 ## Internal Structure of Phrases
 
 Sentences have slots for elements like articles, adjectives, and nouns. The "head" of a phrase determines its category and meaning, with different types of phrases analyzed.
@@ -35,3 +31,7 @@ William Jones's discovery of common features in Sanskrit, Greek, and Latin sugge
 ## Sociolinguistics
 
 Language varies among social groups, reflecting social identity and class. Studies show that pronunciation and word choice indicate social affiliations. Non-standard dialects are rule-governed and reflect proficient language use within social contexts.
+
+## Psycholinguistics: Language Processing
+
+Psycholinguistics examines how the brain processes language, stores words, and recognizes frequently used words faster due to "resting activation."
